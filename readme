@@ -1,0 +1,3 @@
+Remco Tukker, 2013
+
+Prototype for a software agent that communicates with the JBoss ESB through STOMP. See also the ESB tests repo for the accompanying JBoss service.
